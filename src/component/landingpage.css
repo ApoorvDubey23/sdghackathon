@@ -3,7 +3,8 @@
     padding: 12vh 5vw;
     flex-wrap: wrap;
     justify-content: center;
-    
+    margin: 8vh 0vh;
+
 }
 
 @media (min-width:880px){
@@ -12,7 +13,7 @@
         width: 30%;
         display: flex;
         flex-direction: column;
-    
+
         justify-content: center;
     }
 }
