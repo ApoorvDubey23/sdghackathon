@@ -1,6 +1,7 @@
 import React from 'react'
 import POLO from '../images/poloLandingPage.jpg'
 import './landingpage.css'
+import {Link} from 'react'
 function Landingpage() {
     return (
         <div className='LandingPage'>
@@ -17,7 +18,9 @@ function Landingpage() {
                 
                 <div className='cntntlp4'>
                     <button className='button1'>Book Ride ✔ </button>
+                 
                     <button className='button2'>Learn More</button>
+                   
                 </div>
                 </div>
                 <div className='LPimg'>
